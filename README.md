@@ -1,12 +1,262 @@
-- 👋 Hi, I’m @TamimAbdallah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-TamimAbdallah/TamimAbdallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#EXTM3U
+#EXTINF:-1,### AZAM NETWORK ### (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118137
+#EXTINF:-1,AF| UTV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118136
+#EXTINF:-1,AF| NTV KENYA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118135
+#EXTINF:-1,AF| NTV UGANDA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118134
+#EXTINF:-1,AF| TOP TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118075
+#EXTINF:-1,AF| BBS TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118103
+#EXTINF:-1,AF| KTN NEWS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118126
+#EXTINF:-1,AF| AZAM ONE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118133
+#EXTINF:-1,AF| AZAM TWO (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118132
+#EXTINF:-1,AF| AZAM SPORTS 1 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118131
+#EXTINF:-1,AF| AZAM SPORTS 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118130
+#EXTINF:-1,AF| AZAM SPORTS 3 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118129
+#EXTINF:-1,AF| KTN BURUDANI (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118128
+#EXTINF:-1,AF| KTN FARMER (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118127
+#EXTINF:-1,AF| TTV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118125
+#EXTINF:-1,AF| TV WEST (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118124
+#EXTINF:-1,AF| URBAN TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118123
+#EXTINF:-1,AF| WASAFI TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118122
+#EXTINF:-1,AF| ZBC 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118121
+#EXTINF:-1,AF| ZODIAK TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118120
+#EXTINF:-1,AF| AFRICA NEWS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118119
+#EXTINF:-1,AF| AL JAZEERA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118118
+#EXTINF:-1,AF| NINA TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118117
+#EXTINF:-1,AF| REEL PX ACTION (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118116
+#EXTINF:-1,AF| REEL PX COMEDY (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118115
+#EXTINF:-1,AF| REEL PX FAMILY HD (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118114
+#EXTINF:-1,AF| REEL PX UNLIMITED (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118113
+#EXTINF:-1,AF| REEL PX VINTAGE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118112
+#EXTINF:-1,AF| ROMANZA AFRICA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118111
+#EXTINF:-1,AF| SALT TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118110
+#EXTINF:-1,AF| SINEMA ZETU (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118109
+#EXTINF:-1,AF| SONY ENTERTAINMENT (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118108
+#EXTINF:-1,AF| AFRICA MOVIE CHANNEL (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118107
+#EXTINF:-1,AF| AMC SERIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118106
+#EXTINF:-1,AF| BABY TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118105
+#EXTINF:-1,AF| BBC NEWS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118104
+#EXTINF:-1,AF| BET (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118102
+#EXTINF:-1,AF| BLOOMBERG (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118101
+#EXTINF:-1,AF| BOOMERANG (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118100
+#EXTINF:-1,AF| BUKEDDE TV 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118099
+#EXTINF:-1,AF| CARTOON NETWORK (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118098
+#EXTINF:-1,AF| CBEEBIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118097
+#EXTINF:-1,AF| CHANNEL 44 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118096
+#EXTINF:-1,AF| CHANNEL U (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118095
+#EXTINF:-1,AF| CNN (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118094
+#EXTINF:-1,AF| COLORS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118093
+#EXTINF:-1,AF| DISCOVERY SCIENCE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118092
+#EXTINF:-1,AF| ESPN (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118091
+#EXTINF:-1,AF| ESPN 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118090
+#EXTINF:-1,AF| FIX FOXI (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118089
+#EXTINF:-1,AF| FOODIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118088
+#EXTINF:-1,AF| FRANCE 24 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118087
+#EXTINF:-1,AF| HISTORY (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118086
+#EXTINF:-1,AF| HORIZON TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118085
+#EXTINF:-1,AF| ID (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118084
+#EXTINF:-1,AF| KIX MOVIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118083
+#EXTINF:-1,AF| LIVERPOOL TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118082
+#EXTINF:-1,AF| MTV BASE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118081
+#EXTINF:-1,AF| NAT GEO WILD (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118080
+#EXTINF:-1,AF| NATIONAL GEOGRAPHIC (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118079
+#EXTINF:-1,AF| NICKELODEON (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118078
+#EXTINF:-1,AF| SONY MAX (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118077
+#EXTINF:-1,AF| STAR GOLD (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118076
+#EXTINF:-1,AF| TRACE MZIKI (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118074
+#EXTINF:-1,AF| TRAVEL XP (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118073
+#EXTM3U
+#EXTINF:-1,### AZAM NETWORK ### (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118137
+#EXTINF:-1,AF| UTV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118136
+#EXTINF:-1,AF| NTV KENYA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118135
+#EXTINF:-1,AF| NTV UGANDA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118134
+#EXTINF:-1,AF| TOP TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118075
+#EXTINF:-1,AF| BBS TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118103
+#EXTINF:-1,AF| KTN NEWS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118126
+#EXTINF:-1,AF| AZAM ONE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118133
+#EXTINF:-1,AF| AZAM TWO (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118132
+#EXTINF:-1,AF| AZAM SPORTS 1 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118131
+#EXTINF:-1,AF| AZAM SPORTS 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118130
+#EXTINF:-1,AF| AZAM SPORTS 3 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118129
+#EXTINF:-1,AF| KTN BURUDANI (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118128
+#EXTINF:-1,AF| KTN FARMER (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118127
+#EXTINF:-1,AF| TTV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118125
+#EXTINF:-1,AF| TV WEST (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118124
+#EXTINF:-1,AF| URBAN TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118123
+#EXTINF:-1,AF| WASAFI TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118122
+#EXTINF:-1,AF| ZBC 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118121
+#EXTINF:-1,AF| ZODIAK TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118120
+#EXTINF:-1,AF| AFRICA NEWS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118119
+#EXTINF:-1,AF| AL JAZEERA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118118
+#EXTINF:-1,AF| NINA TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118117
+#EXTINF:-1,AF| REEL PX ACTION (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118116
+#EXTINF:-1,AF| REEL PX COMEDY (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118115
+#EXTINF:-1,AF| REEL PX FAMILY HD (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118114
+#EXTINF:-1,AF| REEL PX UNLIMITED (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118113
+#EXTINF:-1,AF| REEL PX VINTAGE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118112
+#EXTINF:-1,AF| ROMANZA AFRICA (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118111
+#EXTINF:-1,AF| SALT TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118110
+#EXTINF:-1,AF| SINEMA ZETU (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118109
+#EXTINF:-1,AF| SONY ENTERTAINMENT (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118108
+#EXTINF:-1,AF| AFRICA MOVIE CHANNEL (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118107
+#EXTINF:-1,AF| AMC SERIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118106
+#EXTINF:-1,AF| BABY TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118105
+#EXTINF:-1,AF| BBC NEWS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118104
+#EXTINF:-1,AF| BET (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118102
+#EXTINF:-1,AF| BLOOMBERG (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118101
+#EXTINF:-1,AF| BOOMERANG (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118100
+#EXTINF:-1,AF| BUKEDDE TV 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118099
+#EXTINF:-1,AF| CARTOON NETWORK (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118098
+#EXTINF:-1,AF| CBEEBIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118097
+#EXTINF:-1,AF| CHANNEL 44 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118096
+#EXTINF:-1,AF| CHANNEL U (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118095
+#EXTINF:-1,AF| CNN (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118094
+#EXTINF:-1,AF| COLORS (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118093
+#EXTINF:-1,AF| DISCOVERY SCIENCE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118092
+#EXTINF:-1,AF| ESPN (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118091
+#EXTINF:-1,AF| ESPN 2 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118090
+#EXTINF:-1,AF| FIX FOXI (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118089
+#EXTINF:-1,AF| FOODIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118088
+#EXTINF:-1,AF| FRANCE 24 (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118087
+#EXTINF:-1,AF| HISTORY (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118086
+#EXTINF:-1,AF| HORIZON TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118085
+#EXTINF:-1,AF| ID (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118084
+#EXTINF:-1,AF| KIX MOVIES (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118083
+#EXTINF:-1,AF| LIVERPOOL TV (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118082
+#EXTINF:-1,AF| MTV BASE (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118081
+#EXTINF:-1,AF| NAT GEO WILD (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118080
+#EXTINF:-1,AF| NATIONAL GEOGRAPHIC (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118079
+#EXTINF:-1,AF| NICKELODEON (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118078
+#EXTINF:-1,AF| SONY MAX (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118077
+#EXTINF:-1,AF| STAR GOLD (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118076
+#EXTINF:-1,AF| TRACE MZIKI (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118074
+#EXTINF:-1,AF| TRAVEL XP (AFR| AZAM NETWORK)
+http://Resource id #4:/Tamy//1118073
